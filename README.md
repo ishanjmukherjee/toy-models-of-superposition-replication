@@ -4,11 +4,13 @@ This is a replication of the Anthropic paper ["Toy Models of Superposition"](htt
 
 Here's my plot:
 
-![My plot showing superposition as a phase transition](https://github.com/user-attachments/assets/8e9c8f17-4dd0-459a-8e65-92201c241d34)
+<img src="https://github.com/user-attachments/assets/8e9c8f17-4dd0-459a-8e65-92201c241d34" alt="My plot showing superposition as a phase transition" width="400"/>
 
 Here's Anthropic's plot:
 
-![Anthropic's plot showing superposition as a phase transition](https://github.com/user-attachments/assets/971bd86d-e643-4567-a4b3-8d92265328ab)
+<img src="https://github.com/user-attachments/assets/971bd86d-e643-4567-a4b3-8d92265328ab" alt="Anthropic's plot showing superposition as a phase transition" width="400"/>
+
+---
 
 To do:
 
